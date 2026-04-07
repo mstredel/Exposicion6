@@ -1,3 +1,3 @@
 # Exposicion6
-Mi nombre es Julián Andrés Hernández Ortega.
-El día de hoy es 23/03/2026.
+Mi nombre es Moises Stredel y Danier Herrera
+El día de hoy es 07/04/2026.
