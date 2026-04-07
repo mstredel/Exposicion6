@@ -5,7 +5,8 @@
 import javax.swing.*;
 /**
  *
- * @author INGRESE SU NOMBRE
+ * @author Moises Stredel
+ @author Danier Herrera
  */
 public class Actividad {
     public static void main(String args[])
