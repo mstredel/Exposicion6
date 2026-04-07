@@ -10,8 +10,8 @@ import javax.swing.*;
 public class Actividad {
     public static void main(String args[])
     {
-        String nombre = //COMPLETAR, HACER QUE EL USUARIO INGRESE SU NOMBRE
-        int edad = //COMPLETAR, HACER QUE EL USUARIO INGRESE SU EDAD
+        String nombre = JOptionPane.showInputDialog("ingrese el nombre");
+        int edad = Integer.parseInt(JOptionPane.showInputDialog("Ingrese su edad"));
         String texto = "Hola, mi nombre es " + nombre + ", tengo " + edad + " años, y esta es la actividad de la exposición 6.";
         JOptionPane.showMessageDialog(null, texto);
     }
